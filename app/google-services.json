@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221300535625",
+    "project_id": "e-learningforkids-32704",
+    "storage_bucket": "e-learningforkids-32704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221300535625:android:8d13e8a8b76b68c4192a98",
+        "android_client_info": {
+          "package_name": "com.firstapp.e_learningforkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221300535625-h5sgkcndrn5oam226davv8fti3slqs70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2OvRZ9bTyJRUhP2Nk5BurQsykVTheLTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221300535625-h5sgkcndrn5oam226davv8fti3slqs70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
